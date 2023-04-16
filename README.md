@@ -6,4 +6,4 @@
 
 #### React Redux-Toolkit Redux-Thunk React-Select
 
-![Watch the video](/Users/ramazanozbuganli/Desktop/okul/transleyt-toolkit/src/logo.gif)
+![Watch the video](https://github.com/ozbuganliramazan/Translate-App/blob/main/src/logo.gif)
